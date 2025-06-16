@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rokkam Karteek!
 
-<!--
-**karteek0432/karteek0432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m passionate about **Cybersecurity**, **Penetration Testing**, and **Frontend Development**  
+🌱 Currently pursuing **B.Tech in Computer Science and Engineering** at **RGUKT Srikakulam**  
+🔐 I build tools focused on **security, privacy, and threat detection**, and participate in **CTFs**  
+💻 I also develop **modern, responsive frontend websites** using HTML, CSS, JS, and Python GUIs (CustomTkinter)
 
-Here are some ideas to get you started:
+💞️ Actively looking to **collaborate on cybersecurity tools**, **open-source projects**, and **internships** to enhance my skills  
+🎯 My goal is to become a **Professional Penetration Tester** and contribute to making digital systems more secure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**
+- ✉️ Email: karteekrokkamsk@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/karteek-rokkam](https://www.linkedin.com/in/karteek-rokkam)  
+- 🐙 GitHub: [github.com/karteek0432](https://github.com/karteek0432)  
+
+---
+
+### 🔧 Tech Stack:
+- **Cybersecurity:** Wireshark, Nmap, Burp Suite, Sublist3r, Encryption Tools  
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Tools & Frameworks:** CustomTkinter, Git, GitHub, VS Code  
+- **Projects:** Webcam Spyware Security Tool, Port Scanner, Malicious URL Detector
+
+---
+
+### 📈 GitHub Stats:
+![Karteek's GitHub stats](https://github-readme-stats.vercel.app/api?username=karteek0432&show_icons=true&theme=radical)
+
+---
+
+😄 **Pronouns:** He/Him | 🇮🇳  
