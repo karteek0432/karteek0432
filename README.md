@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rokkam Karteek!
+# 👋 Hi, I'm Rokkam Karteek!
 
 👀 I’m passionate about **Cybersecurity**, **Penetration Testing**, and **Frontend Development**  
 🌱 Currently pursuing **B.Tech in Computer Science and Engineering** at **RGUKT Srikakulam**  
@@ -20,11 +20,6 @@
 - **Languages:** Python, HTML, CSS, JavaScript  
 - **Tools & Frameworks:** CustomTkinter, Git, GitHub, VS Code  
 - **Projects:** Webcam Spyware Security Tool, Port Scanner, Malicious URL Detector
-
----
-
-### 📈 GitHub Stats:
-![Karteek's GitHub stats](https://github-readme-stats.vercel.app/api?username=karteek0432&show_icons=true&theme=radical)
 
 ---
 
