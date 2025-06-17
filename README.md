@@ -9,7 +9,7 @@
 🎯 My goal is to become a **Professional Penetration Tester** and contribute to making digital systems more secure
 
 📫 **How to reach me:**
-- ✉️ Email: karteekrokkamsk@gmail.com  
+- ✉️ Email: karteekrokkam@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/karteek-rokkam](https://www.linkedin.com/in/karteek-rokkam)  
 - 🐙 GitHub: [github.com/karteek0432](https://github.com/karteek0432)  
 
