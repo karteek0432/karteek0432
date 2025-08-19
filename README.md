@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rokkam Karteek!
 
-👀 I’m passionate about **Cybersecurity**, **Penetration Testing**, and **Frontend Development**  
+👀 I’m passionate about **Cybersecurity**, **Penetration Testing**, and **full-stack development**  
 🌱 Currently pursuing **B.Tech in Computer Science and Engineering** at **RGUKT Srikakulam**  
 🔐 I build tools focused on **security, privacy, and threat detection**, and participate in **CTFs**  
 💻 I also develop **modern, responsive frontend websites** using HTML, CSS, JS, and Python GUIs (CustomTkinter)
