@@ -9,7 +9,6 @@
 - ✉️ karteekrokkam@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/karteek-rokkam)  
 - 🐙 [GitHub](https://github.com/karteek0432)  
-- 🌐 [Portfolio](https://karteek0432.github.io/portfolio/)
 
 ### 🔧 Tech Stack
 - **Cybersecurity:** Wireshark, Nmap, Burp Suite, Sublist3r, Metasploit  
